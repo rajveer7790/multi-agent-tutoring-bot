@@ -2,7 +2,7 @@
 
 An intelligent tutoring system that uses multiple specialized AI agents to provide subject-specific assistance. Built using FastAPI and Google's Gemini API.
 
-**Link to the chatbot - <a>multi-agent-tutoring-bot-production.up.railway.app</a>
+**Link to the chatbot - https://www.multi-agent-tutoring-bot-production.up.railway.app
 
 ## Architecture
 
